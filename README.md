@@ -20,13 +20,17 @@ CSVファイルについて：
 
 <br />
 ![Translation_0000_000](Image Examples/Translation_0000_000.png)
+<br />
 ![Translation_001_0000](Image Examples/Translation_001_0000.png)
 <br />
 ![Translation_002_0000](Image Examples/Translation_002_0000.png)
+<br />
 ![Translation_003_0000](Image Examples/Translation_003_0000.png)
 <br />
 ![Translation_004_0000](Image Examples/Translation_004_0000.png)
+<br />
 ![Translation_005_0000](Image Examples/Translation_005_0000.png)
 <br />
 ![Translation_006_0000](Image Examples/Translation_006_0000.png)
+<br />
 ![Translation_007_0000](Image Examples/Translation_007_0000.png)
