@@ -1,0 +1,101 @@
+﻿,EN,JP
+PRESS_ANY_BUTTON_TO_CONTINUE,press any button,いずれかのボタンを押す
+MENU_PLAY,Play,プレイ
+MENU_OPTIONS,Options,設定
+MENU_QUIT,Quit,終了する
+MENU_NEW_GAME,New Game,新しいゲーム
+MENU_BACK,Back,もどる
+MENU_SAVE_SLOT,Slot,データ
+MENU_CONTINUE,Continue,つづきから
+MENU_SELECT_LEVEL,Level Select,ステージ選び
+MENU_DELETE_SAVE,Delete Save,データ消去
+MENU_DELETE_CONFIRM_QUESTION,Delete X?,X消去？
+MENU_YES,Yes,はい
+MENU_NO,No,いいえ
+MENU_LANGUAGE,Language,言語
+MENU_CONTROLS,Controls,操作方法
+MENU_RES_OPT_BORDERLESS,Borderless,ボーダーレス
+MENU_RES_OPT_FULL_SCREEN,Fullscreen,フルスクリーン
+MENU_RES_OPT_WINDOWED,Windowed,ウィンドウモード
+MENU_GAMEPLAY,Gameplay,ゲームプレイ
+MENU_AUDIO,Audio,サウンド
+MENU_OPT_SKIP_DIALOGUE,Skip Dialogue:,自動スキップ:
+MENU_TEXT_SPEED_OPT_SLOW,Slow,遅い
+MENU_TEXT_SPEED_OPT_NORMAL,Normal,普通
+MENU_TEXT_SPEED_OPT_FAST,Fast,速い
+MENU_OPT_TEXT_SPEED,Text Speed:,話の速さ:
+MENU_OPT_RUN_IN_BACKGROUND,Run in BG:,バックで実行:
+MENU_AUDIO_MUSIC,Music,BGM
+MENU_AUDIO_SOUND,Sound,SE
+MENU_AUDIO_MASTER,Master,マスター
+MENU_CONTROLS_KEYBOARD,Keyboard,キーボード
+MENU_CONTROLS_CONTROLLER,Controller,ゲームパッド
+GAME_ACTION_MOVE_UP,Move Up,上に歩く
+GAME_ACTION_MOVE_DOWN,Move Down,下に歩く
+GAME_ACTION_MOVE_LEFT,Move Left,左に歩く
+GAME_ACTION_MOVE_RIGHT,Move Right,右に歩く
+GAME_ACTION_FREEZE_TIME,Freeze Time,時間を止める
+GAME_ACTION_INTERACT,Interact,インタラクト
+GAME_ACTION_LEAP,Leap,飛ぶ
+GAME_ACTION_THROW,Throw,投げる
+GAME_ACTION_SHOOT,Shoot,撃つ
+GAME_ACTION_RESTART,Restart,リトライ
+GAME_ACTION_PAUSE,Pause,ポーズ
+GAME_ACTION_REWIND,Rewind,過去に戻る
+GAME_ACTION_FAST_FORWARD,Fast Forward,未来に進む
+GAME_ACTION_RESUME,Resume,再開
+GAME_ACTION_SKIP_TO_BEGIN,Skip To Begin,最初に戻る
+GAME_ACTION_SKIP_TO_END,Skip To End,最後まで進む
+GAME_ACTION_CREATE_CLONE,Create Clone,クローン作り
+GAME_ACTION_AIM_UP,Aim Up,上に向ける
+GAME_ACTION_AIM_DOWN,Aim Down,下に向ける
+GAME_ACTION_AIM_LEFT,Aim Left,左に向ける
+GAME_ACTION_AIM_RIGHT,Aim Right,右に向ける
+GAME_ACTION_ADV_DIALOGUE,Adv Dialogue,話に続く
+GAME_ACTION_MENU_UP,Menu Up,メニュー上
+GAME_ACTION_MENU_DOWN,Menu Down,メニュー下
+GAME_ACTION_MENU_LEFT,Menu Left,メニュー左
+GAME_ACTION_MENU_RIGHT,Menu Right,メニュー右
+GAME_ACTION_MENU_SUBMIT,Menu Submit,メニュー決定
+MENU_CLOSE,Close,閉じる
+MENU_CONTROLS_RESTORE_DEFAULTS,Restore Defaults,デフォルトに戻す
+UI_PROMPT_SKIP,Skip,スキップ
+UI_PROMPT_HOLD_PRE,Hold,
+UI_PROMPT_HOLD_POST,,を押し続ける
+UI_PROMPT_CONFIRM,Confirm,決定
+UI_PROMPT_ENTER_NAME,Enter your name,名前を入力して
+UI_KEYBOARD_BACKSPACE,Back,訂正
+UI_KEYBOARD_ENTER,Enter,決定
+GAME_ENV_KEEP_OUT_SIGN_KEEP,K|E|E|P,た|ち|い|り
+GAME_ENV_KEEP_OUT_SIGN_O,O,き
+GAME_ENV_KEEP_OUT_SIGN_U,U,ん
+GAME_ENV_KEEP_OUT_SIGN_T,T,し
+GAME_ENV_SECRET_HIDEOUT,Secret|Hideout,ひみつ|きち
+GAME_ACTION_MOVE,Move,歩く
+GAME_ACTION_AIM,Aim,向ける
+GAME_TIP_STAND_ON,Stand On,上に立つ
+GAME_POPUP_GET_STOPWATCH,Stopwatch|Artifact,ストップウォッチ|アーティファクト
+UI_SPRITE_ATLAS_MODIFIERS_PRE,,<size=65%><voffset=.46em><space=.2em>
+UI_SPRITE_ATLAS_MODIFIERS_POST,,<size=100%><voffset=0em>
+MENU_PAUSED,Paused,ポーズ
+MENU_PAUSED_SKIP_LEVEL,Skip Level,ステージスキップ
+MENU_MAIN_MENU,Main Menu,メインメニュー
+UI_POPUP_RESTARTING,Restarting…,リトライ中...
+UI_POPUP_PROGRESS_SAVED,Progress Saved,セーブした
+CREDITS_ROLES_WYATT,Director / Writer / Lead Gameplay Programmer|UI Artist / Environment Art Assist. / Prop Artist Assist.,監督 / 脚本家 / リードプログラマー|インターフェイスアーティスト / アーティスト
+CREDITS_ROLES_SAM,Character Artist / Lead Prop Artist / Gameplay Programmer,アーティスト/ プログラマー
+CREDITS_ROLES_BRYCE_JACK,Level Designer / Gameplay Programmer,レベルデザイナー / プログラマー
+CREDITS_ROLES_JOSEPH,Producer,プロデューサー
+CREDITS_ROLES_RYAN,Lead Environment Artist,環境アーティスト
+CREDITS_ROLES_ESLIS,Tools Programmer,ツールプログラマー
+CREDITS_ROLES_ZACH,Audio Director|Composer / Sound Design,音響監督 / 編曲|サウンドデザイナー
+CREDITS_ROLES_ANNA_TOMAS,Sound Design|Technical Audio, サウンドデザイナー|テクニカル音響
+CREDITS_SPECIAL_THANKS,Special Thanks,謝辞
+CREDITS_THANK_YOU,Thank you!,ありがとう！
+UI_POPUP_ACTION_RESTRICTED,Action|Restricted,行動制限
+UI_POPUP_FAIL_DEFAULT,You can't resume now!,今は再開できない！
+UI_POPUP_FAIL_PLAYER_DEATH,You'll die if you resume now!,今は再開したら|死ぬ！
+UI_POPUP_FAIL_CLONE_DEATH,A clone will die if you resume now!,今は再開したら|クローンが死ぬ！
+UI_POPUP_FAIL_OUT_OF_TIME,You're out of time!,時間切れだ！
+UI_POPUP_FAIL_OUT_OF_CHARGES,No clone charges are available!,クローン数|がない！
+UI_POPUP_FAIL_INEPTUS_DEATH,You need to take Ineptus alive!,イーネプタス|を殺すな！

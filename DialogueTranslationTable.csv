@@ -1,0 +1,352 @@
+﻿,EN,JP
+EVIL_GUY_NAME,Dr. Ineptus,イーネプタス博士
+EVIL_GUY_NAME_CASUAL,Ineptus,イーネプタス
+EVIL_GUY_NAME_PORTRAIT,Dr. Ineptus,イーネプタス博士
+HQ_NAME,HQ,キカン
+NO_NAME,,
+QUESTION_MARKS_NAME,???,？？？
+SR_AGENT_NAME,Dirigo,ディリーゴ
+SR_AGENT_NAME_CUTOFF,Dir,ディ
+SR_AGENT_NAME_PORTRAIT,Agent Dirigo,AGENTディリーゴ
+SR_AGENT_NAME_UNKNOWN_OLD,Old Man?,じいじい？
+,,
+TimeDust_DSUBTEXT,time dust,time dust
+S1_D0-1_C1_DSUBTEXT,*ring* *ring*,リンリンリリ～ン、リ～リリリリ～ン
+S1_D1_C1_DSUBTEXT,Hello?,もしもし？
+S1_D2_C1_DSUBTEXT,Agent ,ご苦労、AGENT 
+S3_D2_C1_DSUBTEXT,. This is HQ. We have new intel on ,。『キカン』から次の任務だ。
+S5_D2_C1_DSUBTEXT,. You'll need to set out right away.,の場所が見つかった。
+S1_D3_C1_DSUBTEXT,It's about time. Been a few weeks since he broke out of prison. What's he plotting now?,やっとか。あいつの脱獄が久しぶりな。今度はどこ?
+S1_D4_C1_DSUBTEXT,Based on his recent purchases; it seems he is constructing some sort of missile or rocket. We are not sure what he intends to use it for; but whatever it is; it can not be good.,彼はまた何かを多絡んでいる。理由は不明だが大きなミサイル部品を買った。違和感しかない。
+S1_D7_C1_DSUBTEXT,We've discovered the entrance to his newest hideout deep in the mountains. Sending you the coordinates now.,最新の秘密研究所は山奥にある。今座標を送信している。
+S1_D8_C1_DSUBTEXT,Coordinates received. Heading there now.,座標は確認した。出発する。
+S1_D9_C1_DSUBTEXT,One last piece of information Agent ,待ってAGENT
+S3_D9_C1_DSUBTEXT,.,;それだけじゃない。
+S1_D10_C1_DSUBTEXT,The organization has assigned its newest recruit to you. You will need to train them to use your ,『キカン』は新入りを雇われた。MISSIONを完成するながらその子をしっかり導けな。
+S3_D10_C1_DSUBTEXT, while battling ,を使えるようとか
+S5_D10_C1_DSUBTEXT,.,を倒す方とか。
+S1_D11_C1_DSUBTEXT,Giving me a handicap? Well; it should be easy enough for someone like me.,仕事を増やすき？まあ、別にいい。俺みたいなAGENTには大したことじゃね。
+S1_D12_C1_DSUBTEXT,What's their name?,あの子の名前は？
+S2_D14_C1_DSUBTEXT,? Alright; I'll be sure to whip them into shape. Have them meet me outside ,くんか？よし、
+S4_D14_C1_DSUBTEXT,'s hideout.,の秘密研究所の外に会おう。
+S1_D2_C2_DSUBTEXT,Hey Newbie; over here!,おい！こっちだ！
+S1_D4_C2_DSUBTEXT,I'm Agent ,AGENT
+S3_D4_C2_DSUBTEXT,. You're ,だ。まあ君はもう知っているけどな。ファンでしょう？君は運がいい。今日だけに
+S5_D4_C2_DSUBTEXT, right? I'll be showing you the ropes today.,くんが俺の弟子だ。
+S1_D5_C2_DSUBTEXT,You must be a promising recruit for HQ to send you to study under me. My ,『キカン』は君に期待している、たぶん。大体俺の
+S3_D5_C2_DSUBTEXT, can be a difficult one for greenies to use.,は他人に難しいすぎる。
+S1_D6_C2_DSUBTEXT,Well; the best way to learn is to do. Let's get in there. Follow me.,体験は最の練習だ。ついてこい。
+S1_D2_C3_DSUBTEXT,A turret!,ターレットだ！
+S2_D2_C3_DSUBTEXT, ,
+S3_D2_C3_DSUBTEXT,This is a perfect opportunity to learn how to use the ,
+S5_D2_C3_DSUBTEXT,. Here take it.,を使えるチャンスよ。ほら、受けて。
+S1_D5_S3_DSUBTEXT,The ,
+S3_D5_S3_DSUBTEXT, can rewind time and it will activate when you're in danger.,は危機感ときに時間を止まる。
+S1_D6_S3_DSUBTEXT,Basically; you're immortal now. You're welcome.,予習と無敵よ。すごいでしょう？
+S1_D7_C3_DSUBTEXT,Let's head over to the ,
+S3_D7_C3_DSUBTEXT, on the far side of the room. Don't worry if you mess up; the ,に向かう。
+S5_D7_C3_DSUBTEXT, will keep you safe.,が守ってみせる。
+S1_D8_C3_DSUBTEXT,Don't worry about me. I'm the best of the best. I can dodge a few bullets.,俺なら心配しないで。最高のAGENTだ。かわすのは簡単。
+S1_D1_B10A_C3_DSUBTEXT,Ah; the sweet smell of ,あ、
+S3_D1_B10A_C3_DSUBTEXT,. Nice job using the ,の香りだ。
+S5_D1_B10A_C3_DSUBTEXT,. I remember the first time I saw bullets freeze in midair. Never gets old.,の使い方を慣れているかな？
+S1_D1_B10B_C3_DSUBTEXT,Hmmm. Did you even use the ,ん?
+S3_D1_B10B_C3_DSUBTEXT,? You don't smell like ,を使ったの？
+S5_D1_B10B_C3_DSUBTEXT, at all.,の匂いはないな。
+S1_D2_B10B_C3__DSUBTEXT,Well; I suppose that's fine. Nice job dodging those bullets.,まあ、別にいいけどな。かわすのを上手だね、君。
+S1_D11_C3_DSUBTEXT,Let's head through the teleporter.,ポータルに入ろう。
+S1_D3_C6_DSUBTEXT,Huh? A screen?,あれ？テレビ？
+S1_D5_C6_DSUBTEXT,Ahhh. I've been wondering when you would enter the fray; my nemesis. Agent ,あ～、僕の不倶戴天の敵AGENT
+S3_D5_C6_DSUBTEXT,.,。いつに来るかと思っていた。
+S2_D6_C6_DSUBTEXT,!,！
+S1_D7_C6_DSUBTEXT,What ,今度はどんな
+S2_D7_C6_DSUBTEXT,diabolical,極悪な計画
+S3_D7_C6_DSUBTEXT, scheme have you cooked up this time?,を立てたんだ？
+S1_D8_C6_DSUBTEXT,Unfortunately; my friend; this is only a recording. I'm far too busy with my plan's final preparations.,残念ですが、これはただの録画なんだ。僕は計画の最終準備で忙しすぎるんだ。
+S1_D9_C6_DSUBTEXT,MWAHAHAHA!,ムハハッハハッハ！
+S1_D11_C6_DSUBTEXT,I figured you'd be lonely without me; so I've left these recordings strewn throughout my hideout.,僕がいないと寂しいだろうと思って、秘密研究所のあちこちに録画を残しておいたんだ。
+S1_D12_C6_DSUBTEXT,I hope you look forward to them.,楽しみにしてね。
+S1_D15_C6_DSUBTEXT,Attentive in the most evil way... typical ,最も邪悪な意味での気配り...
+S3_D15_C6_DSUBTEXT,.,らしい。
+S1_D16_C6_DSUBTEXT,We've got to stop him rookie. Before he completes his rocket to fire at who knows what.,止めなければならない。ロケットを何かに発射する前に。
+S1_D18_C6_DSUBTEXT,Don't be afraid of ,
+S3_D18_C6_DSUBTEXT,. He may be the greatest villain of our time...,を恐れるな。彼は現代で最も偉大な悪党かもしれない...
+S1_D19_C6_DSUBTEXT,But you're training under the best agent there's ever been. You've got this.,だが、君は最高のAGENTの弟子だ。案ずることがない。
+S1_D3_C7_DSUBTEXT,It seems you've completely gotten the hang of the ,
+S3_D3_C7_DSUBTEXT,.,にすっかりなれたんだね。
+S1_D4_C7_DSUBTEXT,Don't think you know it all already though. It still has a few secrets left.,でも、もうすべてを知っていると思わないで。いくつかの特別な機能が残っている。
+S1_D1_B3A_C8_DSUBTEXT,Hmmm. It seems this would be a perfect opportunity to teach you about the ,んんん。
+S3_D1_B3A_C8_DSUBTEXT,s greatest ability.,の最大の能力について教える絶好の機会になりそうだ。
+S1_D2_B3A_C8_DSUBTEXT,Creating ,
+S3_D2_B3A_C8_DSUBTEXT,.,の作り方。
+S1_D3_B3A_C8_DSUBTEXT,You are going to use a ,
+S3_D3_B3A_C8_DSUBTEXT, to hold down that ,を使ってその
+S5_D3_B3A_C8_DSUBTEXT, for us.,を押さえてもらう。
+S1_D4_B3A_C8_DSUBTEXT,First stand on the ,まずはも一度
+S3_D4_B3A_C8_DSUBTEXT, once more.,の上に立って。
+S1_D5_B3A_C8_DSUBTEXT,Then; you can stop time manually by pressing ,次に
+S3_D5_B3A_C8_DSUBTEXT,.,を押して手動で時間を止めることができます。
+S1_D6_B3A_C8_DSUBTEXT,Once time is stopped; press ,時間が止まったら、
+S3_D6_B3A_C8_DSUBTEXT, to create a ,を押して
+S5_D6_B3A_C8_DSUBTEXT,.,を作る。
+S1_D7_B3A_C8_DUBSTEXT,Got all that? Stand on the ,わかった？
+S3_D7_B3A_C8_DUBSTEXT,; press ,の上に立って、
+S5_D7_B3A_C8_DUBSTEXT,; then ,を押して、
+S7_D7_B3A_C8_DUBSTEXT,.,を押して。
+S1_D1_B3B_C8_DSUBTEXT,Hmmm. It seems this would be a perfect opportunity to teach you...,んんん。教える絶好の機会になり...
+S1_D2_B3B_C8_DSUBTEXT,Wait a minute. I smell more ,待て。前より
+S3_D2_B3B_C8_DSUBTEXT, than before. Have we already talked about this?,の匂いがする。もう話したっけ？
+S1_D3_B3B_C8_DSUBTEXT,Stand on the ,
+S3_D3_B3B_C8_DSUBTEXT,; press ,の上に立って、
+S5_D3_B3B_C8_DSUBTEXT,; then ,を押して、
+S7_D3_B3B_C8_DSUBTEXT,.,を押して。
+S1_D5_C8_DSUBTEXT,Whoa; you made a ,おっ、
+S3_D5_C8_DSUBTEXT,! I guess even in another timeline I'm a great teacher.,を作ったな！別の世界線でも、俺は偉大な教師なんだ。
+S1_D6_C8_DSUBTEXT,The ,
+S3_D6_C8_DSUBTEXT, you had is now used up.,が減った。
+S1_D8_C8_DSUBTEXT,You can make one ,１人の
+S3_D8_C8_DSUBTEXT, per ,は１つの
+S5_D8_C8_DSUBTEXT, you have.,から作れる。
+S1_D1_B10A_C8_DSUBTEXT,Nice job rookie.,よくやった。
+S1_D1_B10B_C8_DSUBTEXT,Uh... Recruit? You've got to get the ,あの...
+S3_D1_B10B_C8_DSUBTEXT, to hold down the ,に
+S5_D1_B10B_C8_DSUBTEXT,.,を押せてもらう必要があるんだ。
+S1_D2_B10B_C8_DSUBTEXT,Well; don't sweat it. In times like this; we have a saying in The Organization. Just hold down ,まあ、気にしない。この倍には『キカン』はことわざがある。
+S3_D2_B10B_C8_DSUBTEXT, or press it twice.,を押し続ける。それとも２回を押して。
+S1_D3_B10B_C8_DSUBTEXT,...,...
+S1_D4_B10B_C8_DSUBTEXT,It's not super catchy; but it gets the job done.,キャッチーというわけではないがちゃんと効く。
+S1_D1_Fail_C9_DSUBTEXT,Not quite right. No worries. Give it another try by holding ,ちょっと違うな。ドンマイ、
+S3_D1_Fail_C9_DSUBTEXT, or pressing it twice.,を押し続けて、もう一度試してみ。
+S1_D3_C9_DSUBTEXT,Alright rookie. This time you've got two ,よし、今回、
+S3_D3_C9_DSUBTEXT,.,が2つある。
+S1_D4_C9_DSUBTEXT,Do the same as before for each ,前と同じく
+S3_D4_C9_DSUBTEXT,.,を押さえて。
+S1_D1_B1A_B6B_C9_DSUBTEXT,Nice job rookie. Now once more for the other ,よし！さあ、つぎの
+S3_D1_B1A_B6B_C9_DSUBTEXT,.,も。
+S1_D7_C9_DSUBTEXT,Good work. Looks like you've got the basics of creating ,よくやった。
+S3_D7_C9_DSUBTEXT, down.,作りの基本を習えたな。
+S1_D8_C9_DSUBTEXT,Let's go on to the next room.,進もう！
+S1_D3_C10-1_DSUBTEXT,Nice work again ,またよくやった、
+S3_D3_C10-1_DSUBTEXT,.,。
+S1_D1_B2A_C10_DSUBTEXT,Try tackling this one on your own.,自分で取り組んでみて。
+S1_D2_B2A_C10_DSUBTEXT,If you think you've messed up; just remember The Organization's saying:,失敗したと思ったら、『キカン』のことわざを思い出せ。
+S1_D3_B2A_C10_DSUBTEXT,"Just hold down ,
+S3_D3_B2A_C10_DSUBTEXT, or press it twice.",を押し続けて。それとも２回を押して。
+S1_D4_B2A_C10_DSUBTEXT,Or maybe you already knew that.,もしかしてもう知っていた？
+S1_D5_C10_DSUBTEXT,*sniffle* You're growing up so fast. You might not even need ol' ,成長すぎる、君。なんだかAGENT
+S3_D5_C10_DSUBTEXT, here anymore; huh?,はもう必要ないんじゃない？
+S1_D6_C10_DSUBTEXT,Well; I suppose that's the point of this; isn't it? To turn you into a proper agent.,まあ、それが狙いどおりだろう。君を立派なAGENTにしてために。
+S1_D7_C10_DSUBTEXT,Let's keep at it.,頑張ろう。
+S1_D2_C11_DSUBTEXT,Hm? Weird; there's nothing here but a screen.,あれ？テレビしかいない。
+S1_D4_C11_DSUBTEXT,Ah; ,ああ、
+S3_D4_C11_DSUBTEXT,. I hope you've been enjoying the traps I've laid for you across the facility.,。僕が仕掛けた罠を楽しんでくれているといいけど。
+S1_D5_C11_DSUBTEXT,Though; I'm sure by now you're wanting something a little more,しかし、今ごろは少し飽きるかな？案ずることはない。次から
+S2_D5_C11_DSUBTEXT,... ,…
+S3_D5_C11_DSUBTEXT,exciting!,エキサイティングになる！
+S1_D6_C11_DSUBTEXT,Worry not. For my arch-nemesis; I've prepared a most wondrous ,宿敵のために、ぼくは最も驚くべき
+S2_D6_C11_DSUBTEXT,surprise,サプライズ
+S3_D6_C11_DSUBTEXT,.,を用意した。
+S1_D7_C11_DSUBTEXT,Every room after this one has been set to ,以降のすべての部屋に入ったら
+S2_D7_C11_DSUBTEXT,SELF DESTRUCT,エクスプロージョン
+S3_D7_C11_DSUBTEXT, after you enter.,を起こる。
+S1_D8_C11_DSUBTEXT,Though; I'm sure an agent as renowned as yourself will have no problem progressing regardless.,でも、あんたのような高名なAGENTなら、関係なく進歩することに問題はないでしょうね。
+S1_D9_C11_DSUBTEXT,Tick-tock; ,チクタク、
+S3_D9_C11_DSUBTEXT,. Or should I say; ,。あるいは
+S4_D9_C11_DSUBTEXT,tick,チック
+S5_D9_C11_DSUBTEXT,-, 
+S6_D9_C11_DSUBTEXT,tick,チック
+S7_D9_C11_DSUBTEXT,-, 
+S8_D9_C11_DSUBTEXT,BOOM!,ドーン！
+S1_D10_C11_DSUBTEXT,AHAHAHAHAHA!,ハッハハッハハ！
+S1_D12_C11_DSUBTEXT,That ,まったく、あの
+S3_D12_C11_DSUBTEXT, always knows how to bring it to the next level.,はいつも次のレベルに引き上げる方法を知っている。
+S1_D13_C11_DSUBTEXT,Sorry ,ごめん、
+S3_D13_C11_DSUBTEXT,. Things have just gotten a bit too dangerous to continue your training right now.,くん。トレーニングを続けるには少し危険すぎる。
+S1_D14_C11_DSUBTEXT,I'll be needing the ,
+S3_D14_C11_DSUBTEXT, back.,を返してもらう。
+S1_D16_C11_DSUBTEXT,Stay in this room. I'll be back to collect you once I've put a stop to ,この部屋に待ってて。
+S3_D16_C11_DSUBTEXT,'s scheme.,を倒したら迎えに来る。
+S2_D19_C11_DSUBTEXT,? It's me... Agent ,くん？俺だよ...AGENT
+S4_D19_C11_DSUBTEXT,.,だ。
+S1_D20_C11_DSUBTEXT,It was only a moment for you; but I've been trying to stop ,君にとっては一瞬だったけど、俺は50年間
+S3_D20_C11_DSUBTEXT, for the last 50 years.,を止めようとしていた。
+S1_D21_C11_DSUBTEXT,And I've failed...,そして...失敗した。
+S1_D22_C11_DSUBTEXT,You're our last hope; ,
+S3_D22_C11_DSUBTEXT,. Here; take this back.,くんは最後の希望だ。ほら、これをまた取って。
+S1_D24_C11_DSUBTEXT,If I remember correctly; I haven't taught you everything but let's hope it's enough.,記憶が正しければ、すべてを教えたわけではないが、十分であることを祈ろう。
+S1_D25_C11_DSUBTEXT,I've engaged the ,
+S3_D25_C11_DSUBTEXT, on the ,を作動した。
+S5_D25_C11_DSUBTEXT,. It will let you know how long you have until the room you're in explodes.,の上にある。今いる部屋が爆発するまでの時間を見せる。
+S1_D27_C11_DSUBTEXT,It's your turn now ,次は
+S3_D27_C11_DSUBTEXT,. Go and succeed where I've failed.,くんだ。俺が失敗したところに成功して。頼む...
+S1_D2_C12_DSUBTEXT,I see you've met one of my more recent creations.,僕の最近のかわいい傑作に会ったね。
+S1_D3_C12_DSUBTEXT,The ,
+S3_D3_C12_DSUBTEXT,!,と言う！
+S1_D4_C12_DSUBTEXT,I made them to keep you company since you always fly solo on your missions.,あんたはいつも単独でミッションに臨むから、そのお供として作ったんだ。
+S1_D5_C12_DSUBTEXT,I think you'll find them very persistent at getting close to you. In more ways than one.,あいつらはとてもしつこくあんたに近づいてくる。いろいろな意味でね。
+S1_D7_C12_DSUBTEXT,MWAHAHAHAHAHA!,ムハハッハハッハ！
+S1_D9_C12_DSUBTEXT,Good luck Agent ,頑張ってAGENT
+S3_D9_C12_DSUBTEXT,. You may actually need it this time.,。期待している。
+S1_D3_C13_DSUBTEXT,Well done making it here Agent ,よくここまで来れたんだ、AGENT
+S3_D3_C13_DSUBTEXT,.,。
+S1_D4_C13_DSUBTEXT,You've officially traversed through half the rooms of my hideout.,アジトの半ばをたどり着いた。
+S1_D5_C13_DSUBTEXT,Such is to be expected of my arch-nemesis.,僕の宿敵に予想通り。
+S1_D6_C13_DSUBTEXT,In the last few rooms you've had to manipulate my ,最近の数部屋に
+S3_D6_C13_DSUBTEXT, to suit your needs.,を操る必要があっただろう？
+S1_D7_C13_DSUBTEXT,How has it been feeling?,気持ち的にはどうだい？
+S1_D8_C13_DSUBTEXT,To bend existences inferior to oneself under your control?,自分より劣っている存在を服させること。
+S1_D9_C13_DSUBTEXT,Quite thrilling?,そそらなかった？
+S1_D10_C13_DSUBTEXT,At least... that's how I imagine it would feel for an agent of the organization.,AGENTにとってそんな気持ちだろうと思う。
+S1_D11_C13_DSUBTEXT,For an evil scientist such as myself; subjugation is an everyday occurence.,でも僕みたいな悪の博士には征服がささいな事。日常茶飯だ。
+S1_D13_C13_DSUBTEXT,So it's lost its glamor pretty quickly.,だからこそ、征服の魅力はすぐに失った。
+S1_D14_C13_DSUBTEXT,It's almost made me feel bad about letting them all get blown to smithereens.,そのせいで、あいつらを粉々に爆発してしまったことを少し後悔する。
+S1_D16_C13_DSUBTEXT,Almost.,まあ、ほんの少しだけど。
+S1_D3_C14_DSUBTEXT,We meet once again; Agent ,また会えたな、AGENT
+S3_D3_C14_DSUBTEXT,.,。
+S1_D4_C14_DSUBTEXT,Have you ever wondered why I do this Agent ,どうして僕はこういう生活を選んだのことを考えたことがあるの？
+S3_D4_C14_DSUBTEXT,?,くん？
+S1_D5_C14_DSUBTEXT,Why? With my dashing good looks and genius mind; why turn to evil?,こんなにイケメンなのに。こんなにジーニアスなのに。悪に汚れられるのはもったいないと思っているでしょう？
+S1_D6_C14_DSUBTEXT,Well; although I've told you numerous times; I suppose everyone needs a refresher every now and then.,まあ、何度も言っているけれど、また聞かしてあげる。
+S1_D7_C14_DSUBTEXT,It all started a long time ago.,むかしむかし、二十年間くらい。
+S1_D9_C14_DSUBTEXT,Shortly before I was born; both my parents lost their lives.,僕の生まれ前に両親は生命をなくなりました。
+S1_D10_C14_DSUBTEXT,Back then; they worked as drones for the organization.,両親は『キカン』に社畜として働いた。
+S1_D11_C14_DSUBTEXT,They researched new technologies that the organization could use to better the world.,彼らは、世界をより良くするために『キカン』が使用できる新技術を研究した。
+S1_D12_C14_DSUBTEXT,But then; they had a disagreement with the organization about one of their devices.,しかし、ある日『キカン』に反する意見が現れた。発達した機器について。
+S1_D13_C14_DSUBTEXT,The organization wanted the device to be decorated with the image of ,『キカン』はグロな図柄を機器に施したかった。思い出したら
+S2_D13_C14_DSUBTEXT,*shudder*,ぞくぞくする。
+S3_D13_C14_DSUBTEXT, , 
+S4_D13_C14_DSUBTEXT,a butterfly. ,チョウの図柄だった。
+S1_D14_C14_DSUBTEXT,A disgusting suggestion; I know. A filthy bug has no place in true art.,忌まわしい提案だろう？汚い虫は真の芸術に不向きがある。
+S1_D15_C14_DSUBTEXT,My parents fought tooth and nail to keep the device true to their artistic vision.,両親は必死に芸術的なビジョンを守ろうとした。
+S1_D16_C14_DSUBTEXT,However; it was in vain. Tragically; my parents lost the fight; their jobs; and their lives.,無駄だった...　両親は全部を失った。戦いや仕事や生命...
+S1_D17_C14_DSUBTEXT,Their artistic lives.,むろん、芸術的な生命。まだ生きている。
+S1_D18_C14_DSUBTEXT,My parents have yet to step foot in our family's secret invention lair since.,それ以来、両親は我が家の秘密研究室に足を踏み入れたことがない。
+S1_D19_C14_DSUBTEXT,To this day...,言うまでもない...
+S2_D19_C14_DSUBTEXT, , 
+S3_D19_C14_DSUBTEXT,excuse me for a moment Agent ,ちょっと失礼、AGENT
+S5_D19_C14_DSUBTEXT,; it seems my cat thinks the power cable is but a toy.,、飼った猫は電源ケーブルをおもちゃに勘違いされている。
+S1_D20_C14_DSUBTEXT,Wait! don't pull on th-,待って！そこに引っぱー
+S1_D3_C15_DSUBTEXT,The end approaches ,終わりが近づいているぞ、
+S3_D3_C15_DSUBTEXT,.,。
+S1_D4_C15_DSUBTEXT,There are but a few rooms that separate you and I.,隔てる部屋はほんのわずかだ
+S1_D5_C15_DSUBTEXT,And my preparations are almost complete.,そして僕の準備はほぼ完了した
+S1_D7_C15_DSUBTEXT,At least; they should be by the time you see this.,はずだ。あんたがこれを見るときにほぼ完了したはずだ。
+S1_D8_C15_DSUBTEXT,I recorded all of these videos right in a row; so the me in this video is no closer to finishing than the me you saw last time.,これらの録画はすべて連続して録画したので、このビデオの僕はまだ何も始まっていない。
+S1_D10_C15_DSUBTEXT,But I'm sure future me;,でも、未来の僕、
+S2_D10_C15_DSUBTEXT, , 
+S3_D10_C15_DSUBTEXT,or I guess present me;,いや現在の僕は、
+S4_D10_C15_DSUBTEXT, , 
+S5_D10_C15_DSUBTEXT,is nearing the end of his preparations.,準備が終わりに近づいているのは確かだろう。
+S1_D12_C15_DSUBTEXT,He better be.,そうじゃなければ...
+S1_D13_C15_DSUBTEXT,...,...
+S1_D14_C15_DSUBTEXT,Maybe I should stop recording these and actually get to work.,録画するのはやめて、実際に仕事に取り掛かったほうがいいかも。
+S1_D16_C15_DSUBTEXT,Prepare yourself for our most epic clash EVER ,史上最も壮絶な激突に備えよ、
+S3_D16_C15_DSUBTEXT,. I; ,。僕、
+S5_D16_C15_DSUBTEXT, shall see you defeated.,が君の敗北を見届けよう。
+S1_D2_C16_DSUBTEXT,Well; well; well... you've arrived exactly when I expected.,これはこれは... 思った通りのタイミングで来てくれたな。
+S1_D3_C16_DSUBTEXT,My newest and greatest scheme will finally put an end to our epic conflict.,僕の最新にして最大の計画が、ついに我々の壮大な争いに終止符を打つだろう。
+S1_D4_C16_DSUBTEXT,This will be the last installment of our story.,これは僕たちの物語に最後のページになる。
+S1_D5_C16_DSUBTEXT,It will be remembered as the day that ,今日は歴史になる。最も巧妙な悪党の
+S2_D5_C16_DSUBTEXT,I,僕
+S3_D5_C16_DSUBTEXT,; the most ingenious villian in history; defeated my nemesis; the finest agent of our time.,が、宿敵である現代最高のAGENTを倒した日として記録されるだろう。
+S1_D6_C16_DSUBTEXT,Shall we begin; Agent ,始めよう、AGENT
+S3_D6_C16_DSUBTEXT,?,？
+S1_D8_C16_DSUBTEXT,...?,...？
+S1_D9_C16_DSUBTEXT,Who the heck are you?,誰だお前？
+S1_D11_C16_DSUBTEXT,Huh...,ふむ...
+S1_D12_C16_DSUBTEXT,Well this is a bit of a let down.,がっかりだ。
+S1_D13_C16_DSUBTEXT,Why would the Organization not send ,なんで『キカン』は
+S3_D13_C16_DSUBTEXT,?,を派遣しなかった？
+S1_D15_C16_DSUBTEXT,Hm? They did? Then where is he?,なんだと？派遣した？じゃどこだ？
+S1_D17_C16_DSUBTEXT,HE FAILED?!?,失敗？！？
+S1_D18_C16_DSUBTEXT,IMPOSSIBLE!!!,あの彼が？！ありえない！！！
+S1_D19_C16_DSUBTEXT,Agent ,AGENT
+S3_D19_C16_DSUBTEXT,... ,が... 
+S4_D19_C16_DSUBTEXT,failed.,失敗した...
+S1_D20_C16_DSUBTEXT,Were the traps too difficult?,罠は難しすぎた？
+S1_D21_C16_DSUBTEXT,No; this random agent made it. So ,いや、この平凡なAGENTがたどり着いた。
+S3_D21_C16_DSUBTEXT, HAD to be able to as well. He's the best there is.,もできるはずだった。
+S1_D22_C16_DSUBTEXT,...maybe he just didn't want to come today...,...もしかしてただ来たくなかったか...
+S1_D23_C16_DSUBTEXT,*sigh*,は...
+S1_D25_C16_DSUBTEXT,Well... the show must go on I suppose...,まあ...せっかくだしやるしかないな...
+S1_D26_C16_DSUBTEXT,Even if there is no point anymore.,無意味としても。
+S1_D27_C16_DSUBTEXT,Behold my; uh; ship of rockets.,僕の...えっと...天を突ける...船を見よ
+S1_D29_C16_DSUBTEXT,With this;,この船を、
+S2_D29_C16_DSUBTEXT, ,　
+S3_D29_C16_DSUBTEXT,uh;,えっと、
+S4_D29_C16_DSUBTEXT, ,　
+S5_D29_C16_DSUBTEXT,ship; I will...,船を...
+S1_D30_C16_DSUBTEXT,*sigh*,は...
+S1_D31_C16_DSUBTEXT,I'm just not feeling this today.,なんか気分が乗らないな。
+S1_D33_C16_DSUBTEXT,You're sure he's not coming?,彼がほんとに来ない？確実に？
+S1_D35_C16_DSUBTEXT,Right...,そう...
+S1_D36_C16_DSUBTEXT,It's just...,ただ...
+S1_D37_C16_DSUBTEXT,These things take a lot of time to prepare.,こういうことは準備に時間が結構かかる。
+S1_D38_C16_DSUBTEXT,You think secret hideouts in the mountainside are cheap?,山奥にある秘密研究所は安いと思う？
+S1_D39_C16_DSUBTEXT,I've been working on this for months!,何カ月もこれに取り組んできたんだ！
+S1_D41_C16_DSUBTEXT,...I guess none of that's your fault.,...まあ、部外者のせいじゃないけど。
+S1_D42_C16_DSUBTEXT,Come on Eugene; pull yourself together.,しっかりしろ、ユージン。
+S1_D43_C16_DSUBTEXT,Okay; let's try this one more time.,よし、も一度やってみよ。
+S1_D44_C16_DSUBTEXT,Behold! My ,見よ！僕の
+S3_D44_C16_DSUBTEXT,!,！
+S1_D46_C16_DSUBTEXT,With this ,この
+S3_D46_C16_DSUBTEXT, I will ascend to the one place that hasn't been corrupted by the Organization...,として、僕は『キカン』に汚れされていない唯一の場所に上ろう。
+S1_D47_C16_DSUBTEXT,SPACE!!!,宇宙！！！
+S1_D48_C16_DSUBTEXT,Just try and stop me Agent ,止めてみて、AGENT
+S3_D48_C16_DSUBTEXT,...,...
+S1_D49_C16_DSUBTEXT,...,...
+S1_D50_C16_DSUBTEXT,Sorry; what was your name?,そいえば、お前の名は？
+S2_D52_C16_DSUBTEXT,? Got it.,くん？わかった。
+S1_D53_C16_DSUBTEXT,*Cough*,ゴホン
+S1_D54_C16_DSUBTEXT,Agent ,AGENT
+S3_D54_C16_DSUBTEXT,; if you fail to stop me here; I will forever be out of the Organization's grasp.,よ、ここで失敗したら、僕は永遠に『キカン』の掌握から外れるだろう。
+S1_D55_C16_DSUBTEXT,Let our battle commence!,さあ、争おう！
+S1_D2_C17_DSUBTEXT,Foiled again...,また邪魔された...
+S1_D4_C17_DSUBTEXT,You're the real deal kid.,お前は本物のAGENTだ
+S1_D5_C17_DSUBTEXT,No one but Agent ,今までAGENT
+S3_D5_C17_DSUBTEXT, has ever been able to stop me before.,以外は僕を倒せなかった。
+S1_D6_C17_DSUBTEXT,You've foiled the scheme of the greatest villain to ever live. You can hold your head up high.,君は史上最強の悪党の企みを邪魔した。胸を張っていい。
+S1_D7_C17_DSUBTEXT,Though; to be defeated by someone who's not ,とはいえ、
+S3_D7_C17_DSUBTEXT,...,ではないAGENTに負けるなんて...
+S1_D8_C17_DSUBTEXT,It feels a bit...,複雑な気分だ。
+S1_D10_C17_DSUBTEXT,You don't think he'll be upset; do you?,彼が怒らないといいだが...
+S1_D11_C17_DSUBTEXT,He's the one who was a no-show in the first place. There's no room for him to complain.,そもそも、来なかったのはあいつだ。文句を言う余地がない。
+S1_D13_C17_DSUBTEXT,Sorry; I'm focusing on ,ごめん、また
+S3_D13_C17_DSUBTEXT, when I should be cursing your victory. How rude of me.,のことを夢中になった。君を呪ているはずところに。失礼。
+S1_D14_C17_DSUBTEXT,*ahem*,ゴホン
+S1_D15_C17_DSUBTEXT,You mindless Organization drone! My beautiful plan has been smashed into pieces because of your nosy peacekeeper group!,『キカン』の社畜めが！あんたの平和の番人組織のせいで僕の美しい計画を台無しにした。
+S1_D16_C17_DSUBTEXT,I would have gotten away with it; if you weren't such a meddling agent.,あんたはおせっかいなAGENTでなければ僕はただで済んだはず。
+S1_D17_C17_DSUBTEXT,Curse you ,呪ってやるAGENT
+S3_D17_C17_DSUBTEXT, the secret agent.,。
+S1_D20_C17_DSUBTEXT,This is the part where you take me back to prison.,これは刑務所に連れ戻す場面だよ。
+S2_D2_C18_DSUBTEXT,! You've done it!,、やったね！
+S1_D3_C18_DSUBTEXT,I suppose it's only natural when you had such an excellent teacher. ,まあ、当たり前だね。こんなにいい師匠があっただから。
+S1_D4_C18_DSUBTEXT,Agent ,AGENT
+S3_D4_C18_DSUBTEXT,...,...
+S4_D4_C18_DSUBTEXT, ,　
+S5_D4_C18_DSUBTEXT,What happened to you?,何があったの？老けすぎた。
+S1_D5_C18_DSUBTEXT,What's that ,なんだと、AGENT
+S3_D5_C18_DSUBTEXT,? Agent ,？
+S5_D5_C18_DSUBTEXT, spent 50 years time traveling with the ,くんは50年間ほど
+S7_D5_C18_DSUBTEXT, trying to stop me?,を使ってずっとタイムトラベルしていた？
+S1_D6_C18_DSUBTEXT,That doesn't make any sense. Is that really how the ,ばかばかしい。本当に
+S3_D6_C18_DSUBTEXT, works?,はそういう機能があった？
+S1_D7_C18_DSUBTEXT,Not at all. Sorry ,いや、全然。だましてごめんね、
+S3_D7_C18_DSUBTEXT,.,。
+S1_D9_C18_DSUBTEXT,That was just one of the disguises I keep on hand.,それは手元に置いている変装のひとつに過ぎない。
+S1_D10_C18_DSUBTEXT,I wanted you to experience what a real mission would feel like.,新人くんに本物のミッションを体験したかった。
+S1_D11_C18_DSUBTEXT,And if you felt like you could keep relying on me; you wouldn't have felt as pressured to succeed.,頼りにし続けられると思えば、成功しなければならないという圧力は感じなかったはずだ。
+S1_D12_C18_DSUBTEXT,Oh; come on...,おいおい...
+S1_D14_C18_DSUBTEXT,Couldn't you have at least told me? I placed recorded messages specifically addressing you.,せめて教えてくれよ！あんたに話しかけた録画があっちこっちに置いた！
+S1_D15_C18_DSUBTEXT,You know how awkward it is for someone else to watch all of those?,部外者がそれらを見たのはちょう恥ずかしいんだけど！
+S1_D16_C18_DSUBTEXT,I had no way of knowing the Organization was going to assign me a rookie to train. Besides-,『キカン』が俺に新人を訓練させるつもりだと知らなかった。そもそ―
+S1_D17_C18_DSUBTEXT,Did you not care at all about the traps I had prepared?! It's going to be quite some time before I can afford another scheme of this size.,僕が用意した罠にはまったく関心がなかったのか？この規模の計画にはけっこう時間がかかるんだ。
+S1_D18_C18_DSUBTEXT,Like I said; the Organization assi-,だから、『キカン』が―
+S1_D19_C18_DSUBTEXT,I did all of this so that we could have an epic clash of good versus evil and you send some random other agent instead.,善と悪の壮大な衝突をするために必死に頑張った。けれどこのまったく知らない無関係なAGENTに送った。
+S1_D20_C18_DSUBTEXT,No offense ,あ、君は悪くはない
+S3_D20_C18_DSUBTEXT,.,さん。
+S1_D21_C18_DSUBTEXT,Oh; come on ,まあ、
+S3_D21_C18_DSUBTEXT,. It couldn't be helped this time around.,よ、今回は仕方がない。
+S1_D23_C18_DSUBTEXT,I promise next time; I'll come to thwart you personally old friend.,次は俺が必ず直接に邪魔をする。約束する、友よ。
+S1_D24_C18_DSUBTEXT,*sigh*,はー
+S1_D26_C18_DSUBTEXT,...I'll hold you to that.,...絶対だぞ。
