@@ -14,23 +14,19 @@ Some notes for browing the CSV files:
 私（Wyatt Senalik)はゲームのすべてを英語から日本語に翻訳しました。このリポジトリは私の翻訳例を与えるために作りました。
 
 CSVファイルについて：
-＊改行は「|」の字に表しています。
-＊英語のコンマは「;」の字に表しています。
-＊「Dialogue」のCSVファイルは少し見づらいかもしれません。このゲームでは会話を処理する方法によって、1つの会話が複数の項目に分かれて表に表示されることがよくあるからです。これは、台詞のどの部分に特殊効果が適用されるかを指定しましたり、台詞の一部が使用される固有名詞（キャラ名とか）に言及する場合に行われました。
+* 改行は「|」の字に表しています。
+* 英語のコンマは「;」の字に表しています。
+* 「Dialogue」のCSVファイルは少し見づらいかもしれません。このゲームでは会話を処理する方法によって、1つの会話が複数の項目に分かれて表に表示されることがよくあるからです。これは、台詞のどの部分に特殊効果が適用されるかを指定しましたり、台詞の一部が使用される固有名詞（キャラ名とか）に言及する場合に行われました。
 
 <br />
 ![Translation_0000_000](Image Examples/Translation_0000_000.png)
-<br />
 ![Translation_001_0000](Image Examples/Translation_001_0000.png)
 <br />
 ![Translation_002_0000](Image Examples/Translation_002_0000.png)
-<br />
 ![Translation_003_0000](Image Examples/Translation_003_0000.png)
 <br />
 ![Translation_004_0000](Image Examples/Translation_004_0000.png)
-<br />
 ![Translation_005_0000](Image Examples/Translation_005_0000.png)
 <br />
 ![Translation_006_0000](Image Examples/Translation_006_0000.png)
-<br />
 ![Translation_007_0000](Image Examples/Translation_007_0000.png)
