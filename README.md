@@ -20,13 +20,13 @@ CSVファイルについて：
 
 <br />
 <img src='./Image Examples/Translation_0000_000.png'>
-![Example1_JP](Translation_001_0000.png)
+<img src='./Image Examples/Translation_001_0000.png'>
 <br />
-![Example2_EN](Translation_002_0000.png)
-![Example2_JP](Translation_003_0000.png)
+<img src='./Image Examples/Translation_002_0000.png'>
+<img src='./Image Examples/Translation_003_0000.png'>
 <br />
-![Example3_EN](Translation_004_0000.png)
-![Example3_JP](Translation_005_0000.png)
+<img src='./Image Examples/Translation_004_0000.png'>
+<img src='./Image Examples/Translation_005_0000.png'>
 <br />
-![Example4_EN](Translation_006_0000.png)
-![Example4_JP](Translation_007_0000.png)
+<img src='./Image Examples/Translation_006_0000.png'>
+<img src='./Image Examples/Translation_007_0000.png'>
