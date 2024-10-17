@@ -19,8 +19,7 @@ CSVファイルについて：
 * 「Dialogue」のCSVファイルは少し見づらいかもしれません。このゲームでは会話を処理する方法によって、1つの会話が複数の項目に分かれて表に表示されることがよくあるからです。これは、台詞のどの部分に特殊効果が適用されるかを指定しましたり、台詞の一部が使用される固有名詞（キャラ名とか）に言及する場合に行われました。
 
 <br />
-<img src='./Image Examples/Translation_0000_000.png'>
-<img src='./Image Examples/Translation_001_0000.png'>
+<img src='./Image Examples/Translation_0000_000.png'><img src='./Image Examples/Translation_001_0000.png'>
 <br />
 <img src='./Image Examples/Translation_002_0000.png'>
 <img src='./Image Examples/Translation_003_0000.png'>
