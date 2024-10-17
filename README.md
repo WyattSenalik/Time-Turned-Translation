@@ -20,44 +20,16 @@ CSVファイルについて：
 
 <br /><br />
 
-<div class="row">
-  <div class="column">
-    <img src='./Image Examples/Translation_0000_000.png' alt='Example1_EN' style='width:100%'>
-  </div>
-  <div class="column">
-    <img src='./Image Examples/Translation_001_0000.png' alt='Example1_JP' style='width:100%'>
-  </div>
-</div>
+<img src='./Image Examples/Translation_0000_000.png' alt='Example1_EN' style='width:45%'> <img src='./Image Examples/Translation_001_0000.png' alt='Example1_JP' style='width:45%'>
 
 <br />
 
-<div class="row">
-  <div class="column">
-    <img src='./Image Examples/Translation_002_0000.png'>
-  </div>
-  <div class="column">
-    <img src='./Image Examples/Translation_003_0000.png'>
-  </div>
-</div>
+<img src='./Image Examples/Translation_002_0000.png' alt='Example2_EN' style='width:45%'> <img src='./Image Examples/Translation_003_0000.png' alt='Example2_JP' style='width:45%'>
 
 <br />
 
-<div class="row">
-  <div class="column">
-    <img src='./Image Examples/Translation_004_0000.png'>
-  </div>
-  <div class="column">
-    <img src='./Image Examples/Translation_005_0000.png'>
-  </div>
-</div>
+<img src='./Image Examples/Translation_004_0000.png' alt='Example3_EN' style='width:45%'> <img src='./Image Examples/Translation_005_0000.png' alt='Example3_JP' style='width:45%'>
 
 <br />
 
-<div class="row">
-  <div class="column">
-    <img src='./Image Examples/Translation_006_0000.png'>
-  </div>
-  <div class="column">
-    <img src='./Image Examples/Translation_007_0000.png'>
-  </div>
-</div>
+<img src='./Image Examples/Translation_006_0000.png' alt='Example4_EN' style='width:45%'> <img src='./Image Examples/Translation_007_0000.png' alt='Example4_JP' style='width:45%'>
